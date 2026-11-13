@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm NRN-250 👋
 
-<!--
-**NRN-250/NRN-250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building practical applications, automation, and creative tools.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-stack applications and developer tools
+- Automation workflows that reduce repetitive work
+- Creative products, including music and media projects
+
+## Featured projects
+
+- [Profolio](https://github.com/NRN-250/Profolio) — my software development portfolio
+- [Music-APP](https://github.com/NRN-250/Music-APP) — a music-focused application
+
+## Currently improving
+
+- Clean architecture and maintainable code
+- Automated testing and continuous integration
+- Clear documentation and user-friendly developer experiences
+
+[View my repositories →](https://github.com/NRN-250?tab=repositories)
